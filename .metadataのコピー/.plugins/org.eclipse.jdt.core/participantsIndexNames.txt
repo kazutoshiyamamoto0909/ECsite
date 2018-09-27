@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/yamamotokazutoshi/Desktop/workspace/template/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4282066389.index
+/template/src
+/Users/yamamotokazutoshi/Desktop/workspace/template/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1968697727.index
+/template/src
